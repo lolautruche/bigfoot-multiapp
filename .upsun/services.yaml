@@ -1,0 +1,3 @@
+services:
+  database:
+    type: postgresql:15
